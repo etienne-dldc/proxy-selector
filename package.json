@@ -1,0 +1,22 @@
+{
+  "name": "fraction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "parcel ./demo/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.6.2"
+  },
+  "dependencies": {
+    "is-plain-object": "^3.0.0"
+  }
+}
